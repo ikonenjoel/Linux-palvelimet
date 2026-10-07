@@ -41,3 +41,6 @@ Loppuvaiheessa voidaankin lisätä tiedosto, lisätä se itse repositorioon ja p
 
 Jos voisin rakentaa itselleni uuden työkoneen ja hankkia siihen tarvittavat oheislaitteet se olisi AMD Epyc pohjainen, tehokkaalla Nvidian näytönohjaimella ja siihen tarvittavat muistit/tallennustilat. Oheislaitteina olisi stereokuulokkeet, pöytämikki, piirtopöytä 3D-mallinnusta varten sekä laadukas hiiri ja näppäimistö. Dualboot windowsin ja linuxin välillä ja se tulisi 3D-mallinnukseen, ohjelmointiin sekä omien projektien pyörittämiseen.
 
+Lähteet:
+
+Heinonen, J. s.a. Linux Exercises – Module 6 (Linux as a Development Workstation). Linux-palvelimet -opintojakson esitysmateriaali Moodlessa. Haaga-Helia ammattikorkeakoulu. Luettu 5.10.2026
